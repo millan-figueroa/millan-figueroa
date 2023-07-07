@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millan-figueroa
-- 👀 I’m from Santiago, Chile. Currently residing in Los Angeles. I'm very interested in BIPOC in tech, food justice and tech, healing and tech, people and tech.
-- 🌱 I’m currently learning full stack development.
+- 👀 Queer Chileno / Visionary entrepreneur / Designer / Hacktivist / Aspiring  Developer / Founder of R A D I C A L   B L O C K S / Tech Equity Advocate
+- 🌱 I’m currently learning full stack Javascript development, applying to Codesmith's Remote Immersive program.
 - 💞️ I’m looking to collaborate in general!
 - 📫 How to reach me: millan.fig@gmail.com. Gracias :)
 
