@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @millan-figueroa
-- 👀 Queer Chileno / Hacktivist / Debug Diva / Founder of R A D I C A L   B L O C K S / Tech Equity Advocate
+- 👀 Queer Chileno / Hacktivist / Debug Diva / Tech Equity Advocate / Founder of R A D I C A L   B L O C K S / 
 - 🌱 I’m currently learning Javascript and Python
 - 📫 How to reach me: millan.fig@gmail.com. Gracias :)
 
