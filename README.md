@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Javascript and Python
 - 💜 Retro emulator enthusiast, plant dad, reggeton bedroom DJ
 - 📢 Peep my Hashnode [here!](k0secha.hashnode.dev)
-- 📫 How to reach me: millan.fig@gmail.com. Gracias :)
+- 📫 How to reach me: millan.fig@gmail.com.
+- 🍉🍉🍉 FREE PALESTINE 🍉🍉🍉
 
 <!---
 millan-figueroa/millan-figueroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
