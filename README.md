@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @millan-figueroa
-- 🌈 Queer Chileno / Hacktivist / Debug Diva / Tech Equity Advocate / Founder of R A D I C A L 🛠 B L O C K S / 
+- 🌈 Queer Chileno / Hacktivist / Debug Diva / Tech Equity Advocate / Founder of D I S R U P T 🛠 D E V / 
 - 🌱 I’m currently learning Javascript and Python
 - 💜 Retro emulator enthusiast, plant dad, reggeton bedroom DJ
 - 📢 Peep my Hashnode [here!](k0secha.hashnode.dev)
