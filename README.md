@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @millan-figueroa
-- 🌈 Queer Chileno / Hacktivist / Debug Diva / Tech Equity Advocate / Founder of D I S R U P T 🛠 D E V / 
-- 🌱 I’m currently learning Javascript and Python
-- 💜 Retro emulator enthusiast, plant dad, reggeton bedroom DJ
+- 👋 Hola, I’m @millan-figueroa
+- 🌈 Community Builder / React Developer / Tech Equity Advocate /  / Founder of D I S R U P T 🛠 D E V 
+- 🌱 JS / React / MongoDB / Tailwind / Gatsby / Express
+- 💜 LA based, Queer Chileno, Retro emulator enthusiast, plant dad, reggeton bedroom DJ
 - 📢 Peep my Hashnode [here!](k0secha.hashnode.dev)
-- 📫 How to reach me: millan.fig@gmail.com.
+- 📫 Reach me: millan.fig@gmail.com.
 - 🍉🍉🍉 FREE PALESTINE 🍉🍉🍉
 
 <!---
