@@ -1,6 +1,6 @@
 - 👋 Hola, I’m @millan-figueroa
-- 🌈 Community Builder / React Developer / Tech Equity Advocate /  / Founder of D I S R U P T 🛠 D E V 
-- 🌱 JS / React / Postgres / Tailwind / Gatsby / WP / Express
+- 🌈 Community Builder / React Developer / Tech Equity Advocate /   
+- 🌱 JS / React / Tailwind / WP 
 - 💜 LA based, Queer Chileno, Retro emulator enthusiast, plant dad, reggeton bedroom DJ
 - 📢 Peep my Hashnode [here!](k0secha.hashnode.dev)
 - 📫 Reach me: millan.fig@gmail.com.
