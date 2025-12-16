@@ -1,8 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace+Code&weight=500&size=25&pause=1000&color=FFF&width=435&lines=%E2%98%A0%EF%B8%8F+Hola+devs.+I'm+Mill%C3%A1n+(%E2%81%A0%C2%A0%E2%81%A0%EA%88%8D%E2%81%A0%E1%B4%97%E2%81%A0%EA%88%8D%E2%81%A0)" alt="Typing SVG" /></a>
 
 ---
+<p align="center">
+  <img src="assets/fullStackDev1.png" alt="fullStackDev function" width="600"/>
+</p>
 
-<p style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+<!-- <p style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
           font-size:1.4rem; font-weight:600; line-height:1.6;">
   <span style="color:#C6538C;">function</span>
   <span style="color:#638FDA;"> fullStackDev</span>
@@ -17,7 +20,7 @@
   <span style="color:#a855f7;">communityOrganizer</span>
   <span style="color:#fff;">;</span><br/>
   <span style="color:#fff;">}</span>
-</p>
+</p> -->
 
 💻 I help local small businesses and mission-driven orgs take back control of their content, by crafting web solutions that focus on data ownership and autonomy. I code with React, Next.js, TailwindCSS, Node.js, MongoDB, and WordPress.<br><br>
 🍉 Passionate about privacy, accessibility, open source, Linux, and community-driven tech.
